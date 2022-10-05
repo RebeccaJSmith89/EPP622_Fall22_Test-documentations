@@ -1,1 +1,2 @@
-Ln -s the four samples: ln -s /pickett_shared/teaching/EPP622_Fall2022/raw_data/solenopsis_invicta_test2/*fastq . 
+Ln -s the four samples: `ln -s /pickett_shared/teaching/EPP622_Fall2022/raw_data/solenopsis_invicta_test2/*fastq . `
+
